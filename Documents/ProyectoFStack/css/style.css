@@ -1,0 +1,418 @@
+        /* Normalize */
+        
+        * {
+            padding: 0;
+            /* relleno */
+            margin: 0;
+            box-sizing: border-box;
+        }
+        /* Fuente de google-fonts */
+        
+        @import url('https://fonts.googleapis.com/css2?family=Kufam&family=Lato&display=swap');
+        /* Fuentes elegidas
+            font-family: 'Kufam', cursive;
+            font-family: 'Lato', sans-serif; */
+        
+        body {
+            font-family: 'Lato', sans-serif;
+            background: url(../images/irlanda.jpg);
+        }
+        /* Header */
+        /* Navegador y menú principal con Bootstrap */
+        
+        .site-header nav {
+            background: url(../images/irlanda.jpg);
+        }
+        
+        #navbarNav {
+            justify-content: flex-end;
+        }
+        /*         
+        .fixed-top {
+            position: fixed;
+            top: 0;
+            right: 0;
+            left: 0;
+            z-index: 1030;
+        } */
+        
+        .navbar-expand-lg .navbar-nav .nav-link {
+            font-family: 'Kufam', cursive;
+            font-size: 1.4rem;
+            padding: 1.4rem;
+            margin: 1rem;
+        }
+        
+        .navbar-expand-lg .navbar-nav .nav-link:hover {
+            font-size: 2rem;
+            color: #b52b65ad;
+            background-color: #56d5c243;
+            border-radius: 0 6rem 0 6rem;
+            padding: 1rem 1.4rem;
+        }
+        
+        @media (max-width:600px) {
+            .navbar-expand-lg .navbar-nav .nav-link:hover {
+                width: 40%;
+            }
+        }
+        
+        .navbar-brand {
+            font-family: 'Lato', sans-serif;
+            font-size: 3rem;
+            margin: 0 3rem;
+            animation-name: example;
+            animation-duration: 20s;
+        }
+        
+        @keyframes example {
+            0% {
+                color: #ee60d9;
+            }
+            25% {
+                color: #5fd1dcac;
+            }
+            50% {
+                color: #e3c909e7;
+            }
+            75% {
+                color: #73a0e8;
+            }
+            100% {
+                color: #cc0e74;
+            }
+        }
+        
+        @media (max-width:700px) {
+            .navbar-brand {
+                font-size: 2.5rem;
+                margin: 0 1.5rem;
+            }
+        }
+        /* Presentación-Inicio */
+        
+        .container {
+            height: 450px;
+        }
+        
+        @media (max-width:700px) {
+            .container {
+                height: 1000px;
+            }
+        }
+        
+        .contenedor {
+            width: 100%;
+            height: 130px;
+            display: flex;
+            flex-flow: column wrap;
+            justify-content: center;
+            padding: 2rem auto;
+            margin: 2rem auto;
+        }
+        
+        .container-inicio {
+            width: 100%;
+            height: 500px;
+            display: flex;
+            flex-flow: column wrap;
+            justify-content: center;
+            padding: 2rem auto;
+        }
+        
+        @media (max-width:900px) {
+            .container-inicio {
+                width: 100%;
+                height: 560px;
+            }
+        }
+        
+        .nombre {
+            display: flex;
+            justify-content: center;
+            font-size: 3rem;
+            font-family: 'Kufam', cursive;
+            color: rgba(0, 0, 0, 0.584);
+        }
+        
+        @media (max-width: 900px) {
+            .nombre {
+                margin: 2rem auto 0 auto;
+                font-size: 2.4rem;
+                color: wheat;
+            }
+        }
+        
+        .nombre-web {
+            display: flex;
+            justify-content: center;
+            font-family: 'Lato', sans-serif;
+            font-size: 1.8rem;
+            color: #2ec1ac;
+        }
+        
+        @media (max-width:600px) {
+            .nombre-web {
+                margin: 1rem auto 0 auto;
+                font-size: 1.5rem;
+            }
+        }
+        /* Sobre mí y mis Skills */
+        
+        .imagen-mia {
+            display: flex;
+            flex-flow: column wrap;
+            justify-content: center;
+            width: 12rem;
+            height: 13rem;
+            margin: 2rem auto;
+            border-radius: 2rem;
+            border: .3rem solid #2ec1ab7e;
+        }
+        
+        @media (max-width:600px) {
+            .imagen-mia img {
+                display: block;
+                margin: 6rem 2rem;
+            }
+        }
+        /* Columnas con info mía - usando flex-box*/
+        
+        .sobre-mi1,
+        .sobre-mi3 {
+            display: flex;
+            align-items: center;
+            width: 40%;
+            height: 140px;
+            padding: 5rem 3rem;
+            margin: 1rem 5rem 1rem auto;
+            font-family: 'Lato', sans-serif;
+            /* letra y colores de los párrafos de la info que agregué */
+            font-size: 1.2rem;
+            color: rgba(232, 167, 123, 0.714);
+            text-align: center;
+            background-color: rgba(65, 61, 65, 0.345);
+            border-radius: 20px;
+            border: .3rem solid #2ec1ab7e;
+            transition: width 2s, height 2s;
+        }
+        
+        .sobre-mi2,
+        .sobre-mi4 {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+            align-items: center;
+            width: 40%;
+            height: 140px;
+            padding: 3rem auto 2rem auto;
+            margin: 1rem 5rem 0 5rem;
+            font-family: 'Lato', sans-serif;
+            font-size: 1.2rem;
+            color: rgba(232, 167, 123, 0.714);
+            text-align: center;
+            background-color: rgba(65, 61, 65, 0.345);
+            border-radius: 20px;
+            border: .3rem solid #2ec1ab7e;
+            transition: width 2s, height 2s;
+        }
+        
+        .sobre-mi1:hover,
+        .sobre-mi2:hover,
+        .sobre-mi3:hover,
+        .sobre-mi4:hover {
+            width: 60%;
+            height: 160px;
+            font-size: 1.4rem;
+            background-color: rgba(0, 128, 128, 0.468);
+            color: #fc9d9dba;
+        }
+        
+        @media (max-width:992px) {
+            .sobre-mi1,
+            .sobre-mi2,
+            .sobre-mi3,
+            .sobre-mi4 {
+                display: flex;
+                flex-flow: column wrap;
+                justify-content: center;
+                width: 70%;
+                font-size: .9rem;
+                margin: 1rem auto;
+            }
+        }
+        
+        @media (max-width:700px) {
+            .sobre-mi1:hover,
+            .sobre-mi2:hover,
+            .sobre-mi3:hover,
+            .sobre-mi4:hover {
+                width: 90%;
+                height: 200px;
+                font-size: 1.2rem;
+            }
+        }
+        
+        .bot-clik {
+            border: 2px solid rgba(255, 250, 250, 0.872);
+        }
+        /* Proyectos para mostrar - sección Portfolio*/
+        
+        .foto-proyecto {
+            transition: all 1.2s ease 0.2s;
+        }
+        
+        .img-thumbnail {
+            max-width: 100%;
+            height: auto;
+        }
+        
+        .titulo-proyecto {
+            font-family: 'Kufam', cursive;
+            color: wheat;
+            font-size: 1.6rem;
+            text-align: center;
+        }
+        
+        .p-proyecto {
+            color: wheat;
+        }
+        /* Formulario, sección contacto */
+        
+        .nombre-formulario {
+            font-size: 2.5rem;
+            font-family: 'Kufam', cursive;
+        }
+        
+        form {
+            width: 50%;
+            padding: 1rem;
+            margin: 2rem auto;
+            font-size: 1.2rem;
+            color: rgb(245, 206, 134);
+        }
+        
+        @media (max-width:900px) {
+            form {
+                width: 80%;
+            }
+        }
+        
+        .mensaje-formulario {
+            padding: 0 0 10rem 0;
+        }
+        
+        .btn-primary {
+            font-size: 1.2rem;
+            color: antiquewhite;
+            width: 30%;
+            background-color: #fc9d9dba;
+            padding: .5rem;
+            margin: 0 .6rem;
+            border: none;
+        }
+        
+        .btn-primary:hover {
+            background-color: #f46767a3;
+        }
+        
+        .titulo-form {
+            font-size: 1.2rem;
+            margin: 1rem auto;
+            text-align: center;
+            color: antiquewhite;
+            padding: 1.4rem;
+            background-color: #fc9d9da8;
+            border-radius: 20px;
+        }
+        /* Footer */
+        
+        footer {
+            margin: 1rem auto 0 auto;
+        }
+        
+        .site-footer {
+            display: flex;
+            justify-content: center;
+            background-image: linear-gradient(to left, #1cb8a172, #ffdccd, #bb1f6070);
+            padding: .4rem;
+        }
+        
+        .copy {
+            margin: 0 auto;
+        }
+        
+        .redes-sociales ul {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+        }
+        
+        .iconos-redes li ul {
+            padding: 1rem;
+            margin: 1rem 3rem;
+        }
+        
+        .iconos-skills li ul {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+            margin: 1rem 4rem;
+        }
+        
+        .fab,
+        .fas {
+            font-size: 2.6rem;
+            color: #ba4475b3;
+            padding: .3rem 2rem;
+            margin: 0 .5rem;
+        }
+        
+        @media (max-width:700px) {
+            .fab,
+            .fas {
+                font-size: 1.6rem;
+            }
+        }
+        
+        .fa-html5,
+        .fa-css3-alt,
+        .fa-python,
+        .fa-js,
+        .fa-book-reader {
+            color: rgba(247, 188, 149, 0.714);
+            font-size: 2.6rem;
+            margin: 0 auto;
+        }
+        
+        .fa-html5:hover,
+        .fa-css3-alt:hover,
+        .fa-python:hover,
+        .fa-js:hover,
+        .fa-book-reader:hover {
+            font-size: 4rem;
+        }
+        
+        @media (max-width:700px) {
+            .fa-html5,
+            .fa-css3-alt,
+            .fa-python,
+            .fa-js,
+            .fa-book-reader {
+                font-size: 1.5rem;
+            }
+        }
+        
+        .ingles {
+            display: flex;
+            justify-content: flex-end;
+            margin: .3rem 1rem 0 auto;
+            font-size: .9rem;
+        }
+        
+        @media (max-width:700px) {
+            .ingles {
+                font-size: .7rem;
+                margin: .2rem auto;
+            }
+        }
