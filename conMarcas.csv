@@ -1,0 +1,307 @@
+Producto,Categoria,Precio,SumaPuntos,Segmento,HayStock,Marca
+Aceite de Girasol Cada Día x 1500 Cc,Almacén,121.0,SI,CARO,True,O Progreso
+Aceite de Girasol Cada Día x 900 Cc,Almacén,75.0,SI,REGULAR,True,Mateverde
+Aceite de Girasol Florencia x 1500 Cc,Almacén,121.0,SI,CARO,False,Sol Argentino
+Aceite de Girasol Florencia x 900 Cc,Almacén,75.0,NO,REGULAR,False,Watson
+Aceite de Girasol Ideal x 1500 Cc,Almacén,121.5,SI,CARO,False,Celeste y Blanca
+Aceite de Girasol Ideal x 900 Cc,Almacén,75.0,SI,REGULAR,True,Sol Argentino
+Aceite de Girasol Primor x 1500 Cc,Almacén,121.0,NO,CARO,False,Watson
+Aceite de Girasol Primor x 900 Cc,Almacén,75.0,NO,REGULAR,True,Heinemann
+Aceto Balsámico Monterrey x 250 Cc,Almacén,77.0,SI,REGULAR,True,Mateverde
+Acondicionador Balance doypack Polyana x 300 Ml,Perfumería,50.0,NO,BARATO,False,Heinemann
+Acondicionador Coco y leche Algabo x 930 Ml,Perfumería,81.0,SI,REGULAR,False,Celeste y Blanca
+Acondicionador Hidratación Plusbelle x 1 Lt,Perfumería,112.5,SI,CARO,False,Mateverde
+Acondicionador Nutrición Sedal x 340 Ml,Perfumería,100.0,NO,CARO,True,Janeiro
+Agua de Mesa sin gas Nihuil x 2 Lt,Bebidas,34.0,NO,BARATO,True,Mateverde
+Agua Mineralizada Con gas Cellier Favaloro x 2 Lt,Bebidas,34.0,SI,BARATO,True,Heinemann
+Agua Mineralizada Sin gas Cellier Favaloro x 2 Lt,Bebidas,34.0,NO,BARATO,True,Watson
+"Agua Mineral Natural con gas Sierra de los Padres x 1,5 Lt",Bebidas,41.0,NO,BARATO,True,Watson
+"Agua Mineral Natural sin gas Sierra de los Padres x 1,5 Lt",Bebidas,41.0,NO,BARATO,True,Mateverde
+Alfajor Tita x 36 Gr x 6 Un,Almacén,134.0,SI,CARO,False,Sol Argentino
+Algodón Hidrófilo clásico Doncella x 140 Gr,Perfumería,77.0,SI,REGULAR,False,Sol Argentino
+Anillos de Coco Tía Maruca x 250 Gr,Almacén,54.0,SI,REGULAR,False,Celeste y Blanca
+Arroz Largo Fino 00000 Primor x 1 Kg,Almacén,53.5,NO,REGULAR,False,Janeiro
+Arroz Largo Fino Apóstoles x 1 Kg,Almacén,54.5,NO,REGULAR,True,Heinemann
+Arroz No se pasa Apóstoles x 1 Kg,Almacén,64.0,SI,REGULAR,True,Sol Argentino
+Arroz Parboil Gallo bolsa x 500 Gr,Almacén,43.5,SI,BARATO,True,O Progreso
+Arroz Parboil Primor x 1 Kg,Almacén,66.5,NO,REGULAR,True,Mateverde
+Atún desmenuzado Supermercado x 170 Gr,Almacén,69.0,SI,REGULAR,True,Janeiro
+Bizcocho de Arroz Azucarado Tía Maruca x 100 Gr,Almacén,49.0,SI,BARATO,True,Heinemann
+Cacao en Polvo Arcoa x 180 Gr,Almacén,39.0,NO,BARATO,True,Janeiro
+Cacao en Polvo Dulce Ravana x 180 Gr,Almacén,34.0,SI,BARATO,True,Celeste y Blanca
+Café Molido La Morenita x 1 Kg,Almacén,432.0,SI,CARO,False,O Progreso
+Café Molido Torrado Suave Bonafide x 500 Gr,Almacén,252.0,NO,CARO,True,Sol Argentino
+Caldo de Gallina Knorr x 12 Un,Almacén,75.0,SI,REGULAR,True,Mateverde
+Cebolla comercial Supermercado x 1 Kg,Frutas y verduras,26.0,SI,BARATO,False,Watson
+Cepillo dental adulto 2-life IBC x 1 Un,Perfumería,38.0,NO,BARATO,False,Heinemann
+Cepillo dental infantil 2-life IBC x 1 Un,Perfumería,39.0,NO,BARATO,True,O Progreso
+Cerveza botella retornable Quilmes Bajo Cero x 1 Lt,Bebidas con alcohol,85.0,SI,REGULAR,False,Janeiro
+Cerveza porrón retornable Quilmes Clásica x 340 Cc,Bebidas con alcohol,35.0,NO,BARATO,False,Sol Argentino
+Cerveza rubia botella retornable Isenbeck x 1 Lt,Bebidas con alcohol,90.0,SI,REGULAR,True,Janeiro
+Cerveza rubia en lata Isenbeck x 473 Cc,Bebidas con alcohol,60.0,NO,REGULAR,True,Watson
+Crema de leche Para cocinar tenor graso 20% La Armonía x 200 Cc,Lácteos,71.0,SI,REGULAR,True,Mateverde
+Crema de leche Sancor x 200 Gr,Lácteos,79.0,NO,REGULAR,False,Mateverde
+Desodorante Deo en aerosol AP antibacterial Rexona x 150 Ml,Perfumería,99.0,SI,CARO,True,Celeste y Blanca
+Desodorante Deo Protect & Care Fem Nivea x 150 Ml,Perfumería,99.0,NO,CARO,False,Watson
+Desodorante En aerosol body spray gold Axe x 150 Ml,Perfumería,99.0,SI,CARO,True,Celeste y Blanca
+Desodorante Men Deo Sensitive Nivea x 150 Ml,Perfumería,99.0,NO,CARO,False,Watson
+Desodorante Roll on Plusbelle Care x 50 Ml,Perfumería,76.0,NO,REGULAR,True,Celeste y Blanca
+Desodorante W Deo en aerosol AP antibacterial Rexona x 150 Ml,Perfumería,99.0,SI,CARO,False,Watson
+Dulce de Batata Esnaola Estuche x 500 Gr,Almacén,83.0,SI,REGULAR,True,O Progreso
+Dulce de Leche Clásico La Armonía x 400 Gr,Lácteos,91.0,NO,REGULAR,True,Heinemann
+Dulce de Leche Tradicional Artesanal San Ignacio x 400 Gr,Lácteos,91.0,SI,REGULAR,False,Watson
+Dulce de Membrillo Esnaola Estuche x 500 Gr,Almacén,88.0,NO,REGULAR,True,Janeiro
+Espinazo novillo Supermercado x 1 Kg,Carnes y embutidos,65.0,NO,REGULAR,False,Watson
+"Esponja Con fibra ""no raya"" Cuidado Azul Virulana x 1 Un",Limpieza,41.5,SI,BARATO,True,Sol Argentino
+Fajita Clásica Tía Maruca x 150 Gr,Almacén,55.0,NO,REGULAR,True,O Progreso
+Fiambre de cerdo comercial Supermercado x 1 Kg,Carnes y embutidos,219.0,SI,CARO,True,O Progreso
+Fideos Codito Canale x 500 Gr,Almacén,33.0,SI,BARATO,True,Heinemann
+Fideos Spaghetti Canale x 500 Gr,Almacén,33.0,NO,BARATO,False,Mateverde
+Fideos Spaghetti Libre de Gluten Matarazzo x 500 Gr,Almacén,108.0,SI,CARO,False,Mateverde
+Fideos Tallarín Canale x 500 Gr,Almacén,33.0,SI,BARATO,False,O Progreso
+Fideos Tirabuzón Canale x 500 Gr,Almacén,33.0,SI,BARATO,True,Mateverde
+Fideos Tirabuzón Libre de Gluten Matarazzo x 500 Gr,Almacén,108.0,NO,CARO,True,Sol Argentino
+Galleta Marinera Clásica Tía Maruca x 350 Gr,Almacén,86.0,SI,REGULAR,False,Heinemann
+Galletitas de Agua Criollitas Pack x 3 x 300 Gr,Almacén,73.0,NO,REGULAR,True,Sol Argentino
+Galletitas Dulces Lincoln Clásica x 153 Gr,Almacén,52.0,NO,BARATO,True,Heinemann
+Galletitas Dulces Rellenas Duquesa x 115 Gr,Almacén,49.0,SI,BARATO,True,O Progreso
+Galletitas Dulces Rellenas Rumba x 112 Gr,Almacén,41.0,SI,BARATO,True,Sol Argentino
+Galletitas Dulces Surtidas Dale x 400 Gr,Almacén,62.0,NO,REGULAR,False,Heinemann
+Galletitas Dulces Vocación Clásica x 170 Gr,Almacén,27.5,NO,BARATO,False,Celeste y Blanca
+Garbanzos Remojados Inalpa x 350 Gr,Almacén,35.0,NO,BARATO,False,Mateverde
+"Gaseosa Cola Cunnington x 1,5 Lt",Bebidas,53.0,SI,BARATO,False,O Progreso
+"Gaseosa Cola Cunnington x 2,25 Lt",Bebidas,64.0,NO,REGULAR,True,Janeiro
+"Gaseosa Cola original Coca Cola x 1,25 Lt",Bebidas,82.0,NO,REGULAR,False,Sol Argentino
+"Gaseosa Cola sin azúcar Cunnington x 1,5 Lt",Bebidas,53.0,NO,BARATO,True,Janeiro
+"Gaseosa Cola sin azúcar Cunnington x 2,25 Lt",Bebidas,58.0,NO,REGULAR,True,Janeiro
+"Gaseosa Lima limón light Cunnington x 2,25 Lt",Bebidas,58.0,SI,REGULAR,True,Janeiro
+"Gaseosa Naranja light Cunnington x 2,25 Lt",Bebidas,58.0,NO,REGULAR,False,Heinemann
+Harina de Maíz Morixe x 500 Gr,Almacén,32.0,SI,BARATO,False,Heinemann
+Harina de Maíz Prestopronta x 750 Gr,Almacén,81.0,SI,REGULAR,False,Watson
+Harina de Trigo 0000 Morixe x 1 Kg,Almacén,46.0,NO,BARATO,False,Heinemann
+Harina de Trigo 000 Morixe x 1 Kg,Almacén,33.0,SI,BARATO,True,Janeiro
+Harina de Trigo Leudante Morixe x 1 Kg,Almacén,52.0,SI,BARATO,True,Watson
+Huevos blancos Supermercado x 6 Un,Lácteos,59.0,SI,REGULAR,False,Janeiro
+Insecticida Mata cucarachas Cuca Trap x 380 Ml,Repelentes e insecticidas,120.0,SI,CARO,False,Sol Argentino
+Insecticida Mata moscas y mosquitos Mosqui Trap x 370 Ml,Repelentes e insecticidas,115.0,SI,CARO,True,Watson
+Jabón de tocador Antibacterial aloe Rexona x 3 Un x 90 Gr,Perfumería,99.0,SI,CARO,False,Mateverde
+Jabón de tocador Antibacterial aloe Rexona x 90 Gr,Perfumería,39.0,NO,BARATO,False,Watson
+Jabón de tocador Fresia y Muguet Duc x 110 Gr,Perfumería,23.5,SI,BARATO,False,Mateverde
+Jabón de tocador Fresia y uguet Duc x 110 Gr,Perfumería,23.5,SI,BARATO,False,O Progreso
+Jabón de tocador Lima y madreselva Duc x 110 Gr,Perfumería,23.5,SI,BARATO,True,Watson
+Jabón de tocador Multicolor Kenia x 3 Un x 80 Gr,Perfumería,49.5,NO,BARATO,False,Mateverde
+Jabón de tocador Sándalos y Casis Duc x 110 Gr,Perfumería,23.5,SI,BARATO,False,Watson
+Jabón de tocador Ylang y Ambar Duc x 110 Gr,Perfumería,23.5,SI,BARATO,False,Janeiro
+Jabón en pan para ropa Gigante x 120 Gr,Limpieza,16.0,SI,BARATO,False,Celeste y Blanca
+Jabón en polvo Clásico Zorro x 800 Gr,Limpieza,106.0,SI,CARO,False,Watson
+Jabón en polvo Primer lavado Ala x 3 Kg,Limpieza,369.0,NO,CARO,False,Sol Argentino
+Jabón líquido de manos Doypack green tea Algabo x 300 Ml,Perfumería,63.0,SI,REGULAR,True,Sol Argentino
+Jabón líquido para ropa Baja espuma doypack Ala x 1400 Ml,Limpieza,205.0,NO,CARO,False,Watson
+Jabón líquido para ropa Baja espuma doypack Ecovita x 1500 Ml,Limpieza,158.0,SI,CARO,False,Heinemann
+Jabón líquido para ropa Doypack Ace x 1400 Ml,Limpieza,204.0,SI,CARO,True,Heinemann
+Jabón líquido para ropa Doypack Netic x 3 Lt,Limpieza,295.0,SI,CARO,True,Sol Argentino
+Jabón líquido para ropa Doypack Netic x 800 Ml,Limpieza,90.0,NO,REGULAR,False,Celeste y Blanca
+Jugo de Limón Menoyo x 250 Cc,Almacén,72.0,SI,REGULAR,False,Watson
+Jugo en Polvo Naranja Dulce Arcor x 20 Gr,Almacén,11.0,NO,BARATO,False,Celeste y Blanca
+Jugo en Polvo Naranja Verao x 10 Gr,Almacén,6.0,NO,BARATO,True,O Progreso
+Jugo listo Manzana Del Valle x 1 Lt,Bebidas,49.5,SI,BARATO,True,Celeste y Blanca
+Jugo listo Multifruta Del Valle x 1 Lt,Bebidas,49.5,SI,BARATO,True,Watson
+Jugo listo Naranja Del Valle x 1 Lt,Bebidas,49.5,NO,BARATO,False,O Progreso
+Lavandina Común Odex x 2 Lt,Limpieza,86.0,SI,REGULAR,True,Sol Argentino
+Lavandina Tradicional concentrada Ayudín x 1 Lt,Limpieza,37.5,SI,BARATO,True,Sol Argentino
+Lavavajilla Limón Ala Ultra x 500 Ml,Limpieza,70.0,NO,REGULAR,False,O Progreso
+Lavavajilla Limón Gigante x 545 Cc,Limpieza,80.0,SI,REGULAR,True,Mateverde
+Lavavajilla Limón Zorro Ultra x 300 Ml,Limpieza,58.0,NO,REGULAR,True,Janeiro
+Leche chocolatada Tregar x 1 Lt,Lácteos,82.0,SI,REGULAR,False,Janeiro
+Leche en polvo Descremada 0% Mg Manfrey x 400 Gr,Lácteos,195.0,NO,CARO,False,Mateverde
+Leche en polvo Entera 26% Mg Inst. Fortif. C/Vit A&D Manfrey x 400 Gr,Lácteos,195.0,NO,CARO,False,Watson
+Leche en polvo Entera Ilolay x 400 Gr,Lácteos,178.0,NO,CARO,False,Celeste y Blanca
+Leche en polvo Entera Inst. Fortificada con Vit. A y D Pouch Purísima x 400 Gr,Lácteos,173.0,NO,CARO,True,Watson
+Leche Fresca Entera tenor graso 3% Armonía x 1 Lt,Lácteos,40.25,SI,BARATO,True,Celeste y Blanca
+Leche Fresca Parcialmente Descremada tenor graso 1% Armonía x 1 Lt,Lácteos,40.25,SI,BARATO,True,Celeste y Blanca
+Leche Fresca Parcialmente Descremada tenor graso 2% Armonía x 1 Lt,Lácteos,40.25,SI,BARATO,True,Sol Argentino
+Leche larga vida Entera UHT Apóstoles x 1 Lt,Lácteos,45.0,SI,BARATO,False,O Progreso
+Leche larga vida Parcialmente descremada UHT Apóstoles x 1 Lt,Lácteos,45.0,NO,BARATO,True,O Progreso
+Lechuga Supermercado x 1 Kg,Frutas y verduras,59.0,SI,REGULAR,True,O Progreso
+Limpiador Baño doypack Ecovita x 500 Ml,Limpieza,53.0,SI,BARATO,False,Janeiro
+Limpiador Baño doypack Odex x 450 Ml,Limpieza,54.0,NO,REGULAR,True,Heinemann
+Limpiador Cocina Antigrasa doypack Odex x 450 Ml,Limpieza,54.0,SI,REGULAR,False,Heinemann
+Limpiador Cocina doypack Ecovita x 500 Ml,Limpieza,53.0,SI,BARATO,True,Heinemann
+Limpiador Cremoso Flores naranja con microscopio Cif x 500 Ml,Limpieza,90.0,SI,REGULAR,True,Watson
+Limpiador de piso Colores Citrus NH3 x 1800 Cc,Limpieza,90.0,SI,REGULAR,True,O Progreso
+Limpiador de piso Con Amoníaco botella NH3 x 900 Cc,Limpieza,90.0,NO,REGULAR,True,Watson
+Limpiador de piso lavanda en botella Ecovita x 900 Ml,Limpieza,60.0,SI,REGULAR,True,Heinemann
+Limpiador de piso Lavanda Mr Músculo x 1800 Cc,Limpieza,115.0,NO,CARO,False,Watson
+Limpiador Multiuso y vidrio repuesto doypack Mr Músculo x 450 Ml,Limpieza,46.5,NO,BARATO,False,Sol Argentino
+Limpiador Vidrios doypack Ecovita x 500 Ml,Limpieza,53.0,NO,BARATO,False,Heinemann
+Limpiador Vidrios Vidrios doypack Odex x 450 Ml,Limpieza,54.0,SI,REGULAR,False,Mateverde
+Limpiador Vidrios Vidrios y multiuso doypcak Procenex x 820 Ml,Limpieza,99.0,NO,CARO,True,Heinemann
+Manteca Primer Premio x 200 Gr,Lácteos,94.0,SI,CARO,True,Celeste y Blanca
+Manteca Sancor x 100 Gr,Lácteos,69.0,SI,REGULAR,False,Janeiro
+Manzana comercial Supermercado x 1 Kg,Frutas y verduras,50.0,NO,BARATO,True,Janeiro
+Mate Cocido en Saquitos Chamigo x 25 Un,Almacén,36.0,SI,BARATO,False,Sol Argentino
+Mate Cocido en Saquitos Playadito x 50 Un,Almacén,100.0,NO,CARO,True,Heinemann
+Mate Cocido Suave Unión x 25 Un,Almacén,50.0,SI,BARATO,False,Celeste y Blanca
+Mayonesa Sin TACC Fanacoa Doypack x 475 Gr,Almacén,62.0,SI,REGULAR,True,O Progreso
+Medallones de carne 276 gr Swift x 4 un,Carnes y embutidos,115.0,SI,CARO,False,O Progreso
+Medallón de carne Express 276 gr Paty x 4 Un,Carnes y embutidos,150.0,SI,CARO,True,Janeiro
+Mermelada de Ciruela Arcor x 454 Gr,Almacén,95.0,NO,CARO,True,Sol Argentino
+Mermelada de Durazno Arcor x 454 Gr,Almacén,95.0,SI,CARO,True,Mateverde
+Mermelada Familiar de Durazno en Frasco Dulcor x 454 Gr,Almacén,75.0,NO,REGULAR,True,Watson
+Oblea Rellena con Pasta de Turrón y Maní Billiken x 25 Gr,Almacén,9.0,SI,BARATO,True,Heinemann
+Oleo Calcáreo doypack Sanicare x 500 Ml,Bebés,108.0,SI,CARO,False,O Progreso
+Oleo Calcáreo en botella Sanicare x 1000 Ml,Bebés,166.0,NO,CARO,True,Watson
+Oleo Calcáreo en botella Sanicare x 220 Ml,Bebés,76.0,SI,REGULAR,True,Celeste y Blanca
+Orégano en sobre La Parmesana x 25 Gr,Almacén,32.0,SI,BARATO,True,Heinemann
+Pan lactal De Mesa Chico Lactal x 335 Gr,Panificados,67.0,SI,REGULAR,False,Mateverde
+Pan lactal De Mesa Grande Lactal x 560 Gr,Panificados,124.0,SI,CARO,True,Janeiro
+Pan lactal De Salvado Chico Lactal x 350 Gr,Panificados,73.0,NO,REGULAR,False,Heinemann
+Pan lactal De Salvado Grande Lactal x 630 Gr,Panificados,136.0,NO,CARO,True,Watson
+Pan lactal Familiar Veneziana x 600 Gr,Panificados,105.0,SI,CARO,True,Janeiro
+Pan para hamburguesa Lactal x 210 Gr,Panificados,52.0,SI,BARATO,True,Watson
+Pan para hamburguesa Veneziana x 210 Gr,Panificados,45.0,NO,BARATO,True,Janeiro
+Pan para pancho Lactal x 210 Gr,Panificados,52.0,SI,BARATO,True,Sol Argentino
+Pan para pancho Veneziana x 210 Gr,Panificados,45.0,SI,BARATO,False,Sol Argentino
+Pan Rallado Mamá Cocina x 1 Kg,Almacén,115.0,NO,CARO,True,O Progreso
+Pan Rallado Morixe x 1 Kg,Almacén,89.0,SI,REGULAR,True,Watson
+Pan Rallado Morixe x 500 Gr,Almacén,54.0,NO,REGULAR,False,Watson
+Papa comercial Supermercado x 1 Kg,Frutas y verduras,26.0,SI,BARATO,True,Celeste y Blanca
+Papel higiénico Doble hoja 20 mts Elite x 4 Un,Limpieza,90.0,SI,REGULAR,False,Heinemann
+Papel higiénico Doble hoja blanco 30 mts Sweety x 4 Un,Limpieza,112.0,NO,CARO,True,Celeste y Blanca
+Papel higiénico Doble hoja blanco 50 mts Campanita XL x 4 Un,Limpieza,214.0,SI,CARO,True,Mateverde
+Papel higiénico Hoja Simple Flor Cadenas 80 mts Elite x 4 Un,Limpieza,130.0,SI,CARO,True,Sol Argentino
+Pascualina Mediana Mendía x 230 Gr,Almacén,41.0,SI,BARATO,True,Celeste y Blanca
+Pasta dental 2 Fluor Fresh Dent x 140 Gr,Perfumería,103.0,NO,CARO,True,Janeiro
+Pasta dental Dientes blanco Odol x 90 Gr,Perfumería,79.0,SI,REGULAR,False,Heinemann
+"Pasta dental Kid´s con flúor, sabor Tutti Frutti Fresh Dent x 90 Gr",Perfumería,70.0,SI,REGULAR,False,Heinemann
+Pasta dental Ultra blanqueadora Colgate x 90 Gr,Perfumería,141.0,SI,CARO,True,O Progreso
+Pañales descartables Supersec Talle G Pampers x 46 Un,Bebés,650.0,NO,CARO,False,Heinemann
+Pañales descartables Supersec Talle M Pampers x 54 Un,Bebés,650.0,NO,CARO,False,Heinemann
+Pañales descartables Supersec Talle P Pampers x 30 Un,Bebés,360.0,SI,CARO,False,Mateverde
+Pañales descartables Supersec Talle XG Pampers x 36 Un,Bebés,650.0,SI,CARO,False,Heinemann
+Pañales descartables Supersec Talle XXG Pampers x 34 Un,Bebés,650.0,SI,CARO,True,Mateverde
+Pañales descartables Triple Protección G Huggies x 22 Un,Bebés,330.0,SI,CARO,False,Watson
+Pañales descartables Triple Protección M Huggies x 26 Un,Bebés,330.0,SI,CARO,False,Watson
+Pañales descartables Triple Protección XG Huggies x 18 Un,Bebés,330.0,SI,CARO,False,O Progreso
+Pañales descartables Triple Protección XXG Huggies x 17 Un,Bebés,330.0,NO,CARO,True,Mateverde
+Pañales descartables Ultrasec Talle G Babysec x 22 Un,Bebés,305.0,NO,CARO,False,Heinemann
+Pañales descartables Ultrasec Talle M Babysec x 26 Un,Bebés,305.0,NO,CARO,True,Heinemann
+Pañales descartables Ultrasec Talle XG Babysec x 18 Un,Bebés,305.0,SI,CARO,True,Celeste y Blanca
+Pañales descartables Ultrasec Talle XXG Babysec x 16 Un,Bebés,305.0,NO,CARO,False,O Progreso
+Pañuelos descartables Doble hoja Campanita Box x 75 Un,Limpieza,40.0,SI,BARATO,True,Janeiro
+Pañuelos descartables Minipocket Elite x 6 Un,Limpieza,45.0,SI,BARATO,False,Janeiro
+Pepas con Membrillo Tía Maruca x 250 Gr,Almacén,54.0,SI,REGULAR,True,Janeiro
+Picada común Supermercado x 1 Kg,Carnes y embutidos,169.0,NO,CARO,True,Celeste y Blanca
+Pollo Entero aditivado con menudos fresco o congelado Supermercado x 1 Kg,Carnes y embutidos,108.0,NO,CARO,True,Celeste y Blanca
+Polvo para Gelatina de Cereza Ravana x 50 Gr,Almacén,34.0,SI,BARATO,True,O Progreso
+Polvo para Gelatina de Frutilla Royal x 40 Gr,Almacén,45.0,SI,BARATO,True,Watson
+Polvo para preparar Flan de Vainilla Ravana x 60 Gr,Almacén,23.0,SI,BARATO,False,Janeiro
+Polvo para preparar Flan de Vainilla Royal x 60 Gr,Almacén,29.0,NO,BARATO,True,Sol Argentino
+Postre Arroz con leche clásico Sublime x 160 Gr,Lácteos,40.0,SI,BARATO,False,Mateverde
+Postre Chocolate Blanco con Dulce de Leche x 2 unidades Sublime x 100 Gr,Lácteos,48.5,NO,BARATO,False,Watson
+Postre Chocolate con Dulce de Leche Shimy x 120 Gr,Lácteos,36.0,SI,BARATO,True,Heinemann
+Postre Chocolate con Dulce de Leche x 2 unidades Sublime x 100 Gr,Lácteos,48.5,SI,BARATO,True,Janeiro
+Postre Chocolate Shimy x 120 Gr,Lácteos,36.0,SI,BARATO,False,Watson
+Postre de Vainilla Ravana x 120 Gr,Almacén,23.0,SI,BARATO,False,Sol Argentino
+Postre Dulce de Leche con Dulce de Leche x 2 unidades Sublime x 100 Gr,Lácteos,48.5,SI,BARATO,True,Mateverde
+Postre Dulce de Leche Shimy x 120 Gr,Lácteos,36.0,NO,BARATO,False,Watson
+Postre Flan vainilla con caramelo x 2 unidades Sublime x 100 Gr,Lácteos,60.0,NO,REGULAR,True,Janeiro
+Postre Lácteo Dulce de Leche Manfrey x 120 Gr,Lácteos,27.0,NO,BARATO,True,Janeiro
+Postre Lácteo Vainilla Manfrey x 120 Gr,Lácteos,27.0,SI,BARATO,True,Celeste y Blanca
+Postre Vainilla con Dulce de Leche Shimy x 120 Gr,Lácteos,36.0,SI,BARATO,True,Mateverde
+Postre Vainilla con Dulce de Leche x 2 unidades Sublime x 100 Gr,Lácteos,48.5,SI,BARATO,True,Sol Argentino
+Postre Vainilla Shimy x 120 Gr,Lácteos,36.0,NO,BARATO,True,Mateverde
+Premezclas para Chipa Lucchetti x 25 Gr,Almacén,135.0,SI,CARO,False,O Progreso
+Preservativos Ultra finos Tulipán x 6 Un,Perfumería,160.0,SI,CARO,True,Heinemann
+Protector diario Clásicos con gel absorvente Ladysoft x 20 Un,Perfumería,65.0,SI,REGULAR,True,Celeste y Blanca
+Protector diario Pocket anatómico c/deo Doncella x 20 Un,Perfumería,50.0,SI,BARATO,True,Watson
+Protector diario Pocket anatómico s/deo Doncella x 20 Un,Perfumería,50.0,SI,BARATO,False,Janeiro
+Protector solar Sun Protect & Hydrate 15 FPS Nivea x 200 Ml,Perfumería,415.0,NO,CARO,False,O Progreso
+Protector solar Sun Protect & Hydrate 30 FPS Nivea x 200 Ml,Perfumería,470.0,SI,CARO,True,Sol Argentino
+Puré de Papas Morixe x 125 Gr,Almacén,58.0,NO,REGULAR,False,Mateverde
+Puré de Papas Morixe x 200 Gr,Almacén,93.0,NO,CARO,True,Watson
+Queso cremoso Horma La Paulina x 1 Kg,Lácteos,329.0,SI,CARO,True,Mateverde
+Queso de máquina comercial Supermercado x 1 Kg,Lácteos,359.0,SI,CARO,False,Celeste y Blanca
+Queso port salut Light horma La Paulina x 1 Kg,Lácteos,370.0,NO,CARO,False,Celeste y Blanca
+Queso rallado Ilolay x 120 Gr,Lácteos,125.0,SI,CARO,True,Celeste y Blanca
+Queso rallado La Paulina x 150 Gr,Lácteos,161.0,SI,CARO,False,Mateverde
+Queso rallado Reggianito Sancor x 190 Gr,Lácteos,200.0,SI,CARO,True,Mateverde
+Queso untable Crematto light Milkaut x 290 Gr,Lácteos,110.0,NO,CARO,False,Watson
+Queso untable Crematto Milkaut x 290 Gr,Lácteos,110.0,SI,CARO,False,Heinemann
+Queso untable Entero San Ignacio x 480 Gr,Lácteos,138.0,NO,CARO,False,Sol Argentino
+Queso untable García x 290 Gr,Lácteos,116.0,NO,CARO,False,Sol Argentino
+Rebozador Morixe x 1 Kg,Almacén,89.0,SI,REGULAR,False,Celeste y Blanca
+Rebozador Morixe x 500 Gr,Almacén,54.0,NO,REGULAR,False,Janeiro
+Repelente Crema en pomo Vais x 200 Gr,Repelentes e insecticidas,85.0,SI,REGULAR,True,Watson
+Repelente en Aerosol Fuyi x 165 Ml,Repelentes e insecticidas,76.5,NO,REGULAR,False,Celeste y Blanca
+Repelente Kids Vais x 200 Ml,Repelentes e insecticidas,106.0,SI,CARO,False,Sol Argentino
+Repelente Líquido en spray Vais x 200 Ml,Repelentes e insecticidas,91.0,SI,REGULAR,False,O Progreso
+Roast beef novillo Supermercado x 1 Kg,Carnes y embutidos,229.0,NO,CARO,True,Mateverde
+Rollo de cocina 60 paños Elite x 3 Un,Limpieza,99.0,NO,CARO,True,Heinemann
+Rollo de cocina 60 paños Sweety x 3 Un,Limpieza,91.0,SI,REGULAR,False,Sol Argentino
+Sal fina Dos Anclas x 500 Gr,Almacén,35.0,SI,BARATO,False,O Progreso
+Sal fina en Estuche Celusal x 500 Gr,Almacén,43.0,NO,BARATO,True,Watson
+Salchichas Fun 190 gr Patyviena x 6 Un,Carnes y embutidos,75.0,SI,REGULAR,True,Celeste y Blanca
+Salchichas Tipo Viena 225 gr Swift x 6 Un,Carnes y embutidos,65.0,SI,REGULAR,True,Celeste y Blanca
+Servilletas Blanca Elite x 70 Un,Limpieza,52.0,SI,BARATO,True,O Progreso
+Shampoo Balance doypack Polyana x 300 Ml,Perfumería,50.0,SI,BARATO,True,Watson
+Shampoo Hidratación Plusbelle x 1 Lt,Perfumería,99.0,NO,CARO,False,Watson
+Shampoo infantil 3 en 1 PH balanceado Suave kids x 200 Ml,Perfumería,105.0,SI,CARO,False,Sol Argentino
+Shampoo infantil Cabellos perfumados Johnson & Johnson x 200 Ml,Perfumería,145.0,NO,CARO,True,O Progreso
+Shampoo infantil Sandía dulce Algabo Kids x 350 Ml,Perfumería,95.0,SI,CARO,False,O Progreso
+Shampoo Nutrición Sedal x 340 Ml,Perfumería,120.0,NO,CARO,False,O Progreso
+Shampoo para bebé Extra suave Algabo Baby x 444 Ml,Bebés,110.0,NO,CARO,False,Watson
+Suavizante Celeste doypack Woody x 900 Ml,Limpieza,56.0,NO,REGULAR,True,Janeiro
+Suavizante Felices sueños doypack Vivere x 450 Ml,Limpieza,132.0,SI,CARO,False,Sol Argentino
+Suavizante Jardín de geranios Zorro x 900 Ml,Limpieza,80.0,NO,REGULAR,True,Mateverde
+Tabletas para mosquitos Repuesto Raid x 24 Un,Repelentes e insecticidas,132.0,SI,CARO,True,O Progreso
+Tampones Tamaño medio Intima x 16 Un,Perfumería,99.0,SI,CARO,True,Heinemann
+Tampones Tamaño medio Intima x 8 Un,Perfumería,56.0,SI,REGULAR,True,Sol Argentino
+Tampones Tamaño super Intima x 16 Un,Perfumería,99.0,SI,CARO,False,Mateverde
+Tampones Tamaño super Intima x 8 Un,Perfumería,56.0,SI,REGULAR,True,Celeste y Blanca
+Tapa de Asado novillo Supermercado x 1 Kg,Carnes y embutidos,229.0,SI,CARO,False,Mateverde
+Tapa de Tarta Criolla Don Celedonio x 360 Gr,Almacén,54.0,NO,REGULAR,True,Mateverde
+Tapas de Empanadas de Hojaldre Don Celedonio x 15 Un,Almacén,55.0,NO,REGULAR,False,Heinemann
+Tapas de empanadas Mendía x 12 Un,Almacén,46.5,SI,BARATO,False,O Progreso
+Tapas de Pastel Mendía x 24 Un,Almacén,67.5,SI,REGULAR,False,Celeste y Blanca
+Toalla Femenina Confort Normales Tela Suave con Alas x 8 unidades Ladysoft x 8 Un,Perfumería,49.0,SI,BARATO,True,Celeste y Blanca
+Toalla Femenina Especial Suave con Alas Siempre Libre x 8 Un,Perfumería,67.0,NO,REGULAR,True,Sol Argentino
+Toalla Femenina Pocket normal con alas duopack tela suave sin deo Doncella x 16 Un,Perfumería,58.0,NO,REGULAR,True,Watson
+Toalla Femenina Pocket ultrafinas tela suave Doncella x 8 Un,Perfumería,41.0,NO,BARATO,True,Mateverde
+Toalla femenina Protección plus suave Always x 16 Un,Perfumería,100.0,SI,CARO,False,Celeste y Blanca
+Toallas húmedas Doypack Sanicare x 100 Un,Bebés,74.0,SI,REGULAR,False,Mateverde
+Toallas húmedas FP Sanicare x 100 Un,Bebés,144.0,SI,CARO,True,Celeste y Blanca
+Tostada de Arroz con Sal Tía Maruca x 120 Gr,Almacén,56.0,SI,REGULAR,True,O Progreso
+Tostada de Arroz grande Tía Maruca x 160 Gr,Almacén,96.0,NO,CARO,False,Heinemann
+Tostada de Arroz sin Sal Tía Maruca x 120 Gr,Almacén,56.0,SI,REGULAR,False,Sol Argentino
+Té común en saquitos La Morenita x 25 Un,Almacén,32.0,SI,BARATO,True,Heinemann
+Té común en saquitos Taraguí x 25 Un,Almacén,39.0,SI,BARATO,False,Celeste y Blanca
+Vinagre de Alcohol Alcazar x 500 Cc,Almacén,25.0,NO,BARATO,True,Janeiro
+Vinagre de Manzana Alcazar x 1000 Cc,Almacén,72.0,NO,REGULAR,True,Janeiro
+Vino Blanco Tetrabrick Arizu x 1 Lt,Bebidas con alcohol,55.0,SI,REGULAR,False,Watson
+Vino Blanco Tetrabrick Crespi x 1 Lt,Bebidas con alcohol,55.0,NO,REGULAR,False,Janeiro
+Vino Clásico Resero x 1250 Ml,Bebidas con alcohol,75.0,SI,REGULAR,False,Watson
+Vino Tinto Tetrabrick Arizu x 1 Lt,Bebidas con alcohol,55.0,SI,REGULAR,True,Heinemann
+Vino Tinto Tetrabrick Crespi x 1 Lt,Bebidas con alcohol,55.0,NO,REGULAR,True,Watson
+Vino Tinto Tradicional Michel Torino x 1125 Ml,Bebidas con alcohol,94.0,NO,CARO,False,Heinemann
+Yerba Mate Compuesta Elaborada con Palo Chamigo x 500 Gr,Almacén,89.0,SI,REGULAR,True,Mateverde
+Yerba Mate Rosamonte x 1 Kg,Almacén,193.0,SI,CARO,True,Heinemann
+Yerba Mate Rosamonte x 500 Gr,Almacén,100.0,SI,CARO,False,Celeste y Blanca
+Yerba Mate Suave Compuesta Elaborada con Palo Nobleza Gaucha x 500 Gr,Almacén,100.0,SI,CARO,False,Watson
+Yerba Mate Suave con Palo Unión x 1 Kg,Almacén,225.0,SI,CARO,True,Watson
+Yerba Mate Tradicional Amanda x 500 Gr,Almacén,112.5,NO,CARO,True,Janeiro
+Yogur batido Entero Frutilla 2 x 120 gr Ilolay x 240 Gr,Lácteos,39.0,NO,BARATO,True,Mateverde
+Yogur batido Entero Vainilla 2 x 120 gr Ilolay x 240 Gr,Lácteos,39.0,SI,BARATO,True,Sol Argentino
+Yogur Bebible descremado Frutilla Sachet Vida x 900 Gr,Lácteos,77.0,SI,REGULAR,False,Janeiro
+Yogur Bebible descremado Frutos del Bosque Sachet Vida x 900 Gr,Lácteos,77.0,SI,REGULAR,True,O Progreso
+Yogur Bebible descremado Vainilla Sachet Vida x 900 Gr,Lácteos,77.0,SI,REGULAR,False,Mateverde
+Yogur bebible Tetratop Descremado Frutilla Ilolay x 1 Kg,Lácteos,74.5,NO,REGULAR,True,Mateverde
+Yogur bebible Tetratop Descremado Vainilla Ilolay x 1 Kg,Lácteos,74.5,SI,REGULAR,True,Heinemann
+Yogur bebible Tetratop Entero Durazno Ilolay x 1 Kg,Lácteos,74.5,SI,REGULAR,True,Mateverde
+Yogur bebible Tetratop Entero Frutilla Ilolay x 1 Kg,Lácteos,74.5,SI,REGULAR,True,Mateverde
+Yogur bebible Tetratop Entero Vainilla Ilolay x 1 Kg,Lácteos,74.5,SI,REGULAR,False,Sol Argentino
+Yogur Cremeso entero Vainilla x 2 unidades Primeros Sabores x 120 Gr,Lácteos,45.0,NO,BARATO,True,Celeste y Blanca
+Yogur Firme descremado frutilla pote Vida x 190 Gr,Lácteos,36.0,SI,BARATO,True,Mateverde
+Yogur firme Entero Frutilla 2 x 120 gr Ilolay x 240 Gr,Lácteos,39.0,SI,BARATO,False,Watson
+Yogur firme Entero Vainilla 2 x 120 gr Ilolay x 240 Gr,Lácteos,39.0,SI,BARATO,False,Janeiro
+Zapallo anco comercial Supermercado x 1 Kg,Frutas y verduras,46.0,SI,BARATO,True,Mateverde
